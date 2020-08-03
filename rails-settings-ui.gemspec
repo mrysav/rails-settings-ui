@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bundler'
   s.add_development_dependency 'pry'
   s.add_development_dependency 'launchy'
-  s.add_development_dependency 'factory_girl_rails'
+  s.add_development_dependency 'factory_bot_rails'
   s.add_development_dependency 'simplecov'
   s.add_development_dependency 'codeclimate-test-reporter', '~> 1.0.0'
   s.test_files = Dir['spec/**/*']
